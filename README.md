@@ -1,4 +1,5 @@
 yiyun_practice
+就是些unity的練習
 ---
 ### Git 上傳
 1. 開啟cmd 輸入git clone github資料庫的網址	
