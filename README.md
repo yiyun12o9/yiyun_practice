@@ -11,7 +11,7 @@
 7. 輸入git status 看到紅色字為未上傳的檔案
 8. 輸入git add . (是add空格.)
 9. 輸入git commit -m "隨便打"
-10. 輸入git push
+10. 輸入git push (有時會遇到不同步的問題，先試試git pull再git push)
 
 ### Git 上傳(方法2)
 1. 開啟cmd 輸入git clone github資料庫的網址	
